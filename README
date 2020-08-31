@@ -1,0 +1,6 @@
+Sayfalama ve h2 veritabaninin konsolu application.properties dosyasindan acildi.
+http://localhost:8080/h2-console ile erisildi konsol yolu ve olusturulan veritabani ismi
+RUN islemi yapildigindaki islemlerin arasinda yazmaktadir.Konsolda kullanilan sql komutlari test.sqlde
+bulunmaktadir.
+
+http://localhost:8080/kisi/p?page=1&size=3&sort=id
